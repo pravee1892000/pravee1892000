@@ -60,7 +60,7 @@ Created an AI-powered healthcare chatbot that provides medical advice and recomm
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen-b-s25/)
 - 📂 [GitHub](https://github.com/pravee1892000)
-- 📧 Email: [praveepraveena619@gmail.com]
+- 📧 Email: [praveepraveena619@gmail.com](praveepraveena619@gmail.com)
 
 🚀 Always eager to learn and collaborate on exciting projects!
 
